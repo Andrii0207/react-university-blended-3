@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "react-university-blended-3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mykola-ovchynnik.github.io/react-blended-3/",
+  "homepage": "https://Andrii0207.github.io/react-university-blended-3/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
