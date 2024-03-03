@@ -8,6 +8,7 @@ export const Country = () => {
   const [country, setCountry] = useState(null);
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
+  
   const location = useLocation();
   const { countryId } = useParams();
 
@@ -27,7 +28,6 @@ export const Country = () => {
           color: '#f2f2f2',
           letterSpacing: '0.06em',
           textDecoration: 'underline',
-
           borderColor: 'gray',
         }}
       >
